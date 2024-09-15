@@ -1,0 +1,30 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+.container{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+    margin: 2px;
+    width: auto;
+    height: 725px;
+    
+}
+.complaint{
+    background-color: blue;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+
+}
+.containercard {
+    background-color: red;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+    
+}
