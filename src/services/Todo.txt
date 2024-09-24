@@ -1,3 +1,0 @@
-#Serviços de API e integrações de front-end
-mais na frente pretendo colocar uma pasta só
-para requisições mas isso é pra outro dia.

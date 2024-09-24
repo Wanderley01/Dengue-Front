@@ -1,1 +1,0 @@
-#Páginas do front-end (ex.: home, about, login)

@@ -1,6 +1,0 @@
-#Arquivos de estilo global (CSS, SASS, etc.)
-caso for usar outras bibliotecas ou Framework
-na aplicação, colocar o nome na pasta config
-para que outros possam usar ou em caso de conflito
-poça resolever.
-
